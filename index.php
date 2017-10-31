@@ -2,7 +2,7 @@
 <html>
 <head>
 <meta charset="utf-8">
-<title>pay2.ru - Профессиональный, платежный инструмент для вашего проекта</title>
+<title>Pay to Fun - Профессиональный, платежный инструмент для вашего проекта</title>
 <link rel="stylesheet" href="styles.css" />
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:400,700" />
 <script type="text/javascript" src="/assets/js/scroll.js"></script>
@@ -130,34 +130,6 @@
 		</div>
 	</div>
 	
-<script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-
-  ga('create', 'UA-43253787-2', 'auto');
-  ga('send', 'pageview');
-
-</script>
-
-<meta name='mysitecost.ru' content='addurl' />
-
-<!-- Rating@Mail.ru counter -->
-<script type="text/javascript">
-var _tmr = window._tmr || (window._tmr = []);
-_tmr.push({id: "2802998", type: "pageView", start: (new Date()).getTime()});
-(function (d, w, id) {
-  if (d.getElementById(id)) return;
-  var ts = d.createElement("script"); ts.type = "text/javascript"; ts.async = true; ts.id = id;
-  ts.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//top-fwz1.mail.ru/js/code.js";
-  var f = function () {var s = d.getElementsByTagName("script")[0]; s.parentNode.insertBefore(ts, s);};
-  if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); }
-})(document, window, "topmailru-code");
-</script><noscript><div style="position:absolute;left:-10000px;">
-<img src="//top-fwz1.mail.ru/counter?id=2802998;js=na" style="border:0;" height="1" width="1" alt="Рейтинг@Mail.ru" />
-</div></noscript>
-<!-- //Rating@Mail.ru counter -->
 
 	<!-- </middle> -->
 </div>
