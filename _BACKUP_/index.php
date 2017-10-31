@@ -19,14 +19,14 @@
 
 			<ul class="menu">
 				<li><a href="/">Главная</a></li>
-				<li><a href="http://pay2.fun/comment">Отзывы</a></li>
-				<li><a href="http://help.pay2.fun">Помощь и контакты</a></li>
+				<li><a href="http://pay2.ru/comment">Отзывы</a></li>
+				<li><a href="http://help.pay2.ru">Помощь и контакты</a></li>
 				<li><a href="http://vk.com/pay2">Мы Вконтакте</a></li>
 			</ul>
 
 			<div class="buttons">
-				<a href="http://cp.pay2.fun/" class="log">Войти</a>
-				<a href="http://cp.pay2.fun/" class="reg">Регистрация</a>
+				<a href="http://cp.pay2.ru/" class="log">Войти</a>
+				<a href="http://cp.pay2.ru/" class="reg">Регистрация</a>
 			</div>
 
 		</div>
@@ -37,7 +37,7 @@
 			<div class="title">Начните зарабатывать со своих проектов, вместе с нами!</div>
 			<div class="descr">Мы занимаемся обслуживанием различных игровых серверов, steam-проектов, интернет-магазинов,</div>
 			<div class="descr">за довольно короткий срок нашей деятельности, нам доверяют более 100 проектов, которые сотрудничают с нами.</div>
-			<a href="http://cp.pay2.fun/project/add">Добавить новый проект и начать зарабатывать с нами</a>
+			<a href="http://cp.pay2.ru/project/add">Добавить новый проект и начать зарабатывать с нами</a>
 		</div>
 	</div>
 
@@ -45,6 +45,33 @@
 
 <div id="container">
 	<!-- <middle> -->
+
+	<div class="blockname" id="info">
+		<div class="title">Полезная информация</div>
+		<div class="descr">Начни прямо сейчас</div>
+	</div>
+
+	<div class="advantages">
+		<div id="width">
+
+			<div class="block">
+				<div class="title">Онлайн система</div>
+				<div class="descr">Платежная система осущеставляющая прием средств с интернет проектов.</div>
+			</div>
+
+			<div class="block">
+				<div class="title">Без документов</div>
+				<div class="descr">Мы не требуем никаких аттестатов и прочих документов от вас.</div>
+			</div>
+
+			<div class="block">
+				<div class="title">Удобный вывод</div>
+				<div class="descr">Выводите полученные вами средства в удобное для вас время.</div>
+			</div>
+
+		</div>
+	</div>
+
 	<div class="faq">
 		<div id="width">
 
@@ -65,23 +92,30 @@
 	</div>
 
 	<div class="blockname" id="reviews">
-		<div class="title">Отзывы клиентов в реальном времени</div>
+		<div class="title">Отзывы клиентов</div>
+		<div class="descr">Самые прибыльные проекты</div>
 	</div>
 
 	<div class="clients">
 		<div id="width">
-		
-<center><script type="text/javascript" src="//vk.com/js/api/openapi.js?127"></script> 
 
-<script type="text/javascript"> 
-VK.init({apiId: 5604383, onlyWidgets: true}); 
-</script> 
+			<div class="block">
+				<img src="client-1.png">
+				<div class="name">Дмитрий Медвецкий</div>
+				<div class="descr">Лучшая, платёжная система, которую я только видел. Мгновенные выплаты и быстрые ответы от поддержки - РАДУЮТ!</div>
+			</div>
 
-<!--— Put this div tag to the place, where the Comments block will be —--> 
-<div id="vk_comments"></div> 
-<script type="text/javascript"> 
-VK.Widgets.Comments("vk_comments", {redesign: 1, limit: 10, width: "665", attach: "*"}); 
-              </script></center>
+			<div class="block">
+				<img src="client-2.png">
+				<div class="name">Марат Абдулаев</div>
+				<div class="descr">Занимаюсь разработкой различных стратапов, рекомендую вас своим клиентам!</div>
+			</div>
+
+			<div class="block">
+				<img src="client-3.png">
+				<div class="name">Степан Соболев</div>
+				<div class="descr">Очень удобная платежная система, использую её для своего интернет-магазина графики.</div>
+			</div>
 
 		</div>
 	</div>

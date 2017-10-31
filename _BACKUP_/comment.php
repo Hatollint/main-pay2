@@ -19,14 +19,14 @@
 
 			<ul class="menu">
 				<li><a href="/">Главная</a></li>
-				<li><a href="http://pay2.fun/comment">Отзывы</a></li>
-				<li><a href="http://help.pay2.fun">Помощь и контакты</a></li>
+				<li><a href="http://pay2.ru/comment">Отзывы</a></li>
+				<li><a href="http://help.pay2.ru">Помощь и контакты</a></li>
 				<li><a href="http://vk.com/pay2">Мы Вконтакте</a></li>
 			</ul>
 
 			<div class="buttons">
-				<a href="http://cp.pay2.fun/" class="log">Войти</a>
-				<a href="http://cp.pay2.fun/" class="reg">Регистрация</a>
+				<a href="http://cp.pay2.ru/" class="log">Войти</a>
+				<a href="http://cp.pay2.ru/" class="reg">Регистрация</a>
 			</div>
 
 		</div>
@@ -37,7 +37,7 @@
 			<div class="title">Начните зарабатывать со своих проектов, вместе с нами!</div>
 			<div class="descr">Мы занимаемся обслуживанием различных игровых серверов, steam-проектов, интернет-магазинов,</div>
 			<div class="descr">за довольно короткий срок нашей деятельности, нам доверяют более 100 проектов, которые сотрудничают с нами.</div>
-			<a href="http://cp.pay2.fun/project/add">Добавить новый проект и начать зарабатывать с нами</a>
+			<a href="http://cp.pay2.ru/project/add">Добавить новый проект и начать зарабатывать с нами</a>
 		</div>
 	</div>
 
